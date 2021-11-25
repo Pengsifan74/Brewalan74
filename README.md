@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/MartinHeinz/Brewalan74/Brewalan74/readme_header.png "Header")](https://some-url.dev/)
+[![Header](https://raw.githubusercontent.com/MartinHeinz/Brewalan74/Brewalan74/readme_header.png "Header")]
 
 ### Hi everyone! Welcome to my Github, I am Brewalan. 👋
 
