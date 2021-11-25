@@ -5,6 +5,9 @@
 
 ![Brewalan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brewalan74&theme=merko&show_icons=true&&count_private=true&include_all_commits=true)
 
+<!--START_SECTION:waka-->
+Run workflow
+<!--END_SECTION:waka-->
 
 
 <!--
