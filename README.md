@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi everyone! Welcome to my Github, I am Brewalan. 👋
+
+![Cover](https://github.com/Brewalan74/Brewalan74/blob/master/img/Wonderland.jpeg)
 
 <!--
 **Brewalan74/Brewalan74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +17,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Cover](https://github.com/Brewalan74/Brewalan74/blob/master/img/Wonderland.jpeg)
+
