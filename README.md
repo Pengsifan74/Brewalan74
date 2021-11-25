@@ -5,7 +5,7 @@
 
 ![Brewalan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brewalan74&theme=merko&show_icons=true)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+![visitors](https://visitor-badge.glitch.me/badge?Brewalan74=Brewalan74.id)
 
 <!--
 **Brewalan74/Brewalan74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
