@@ -3,7 +3,7 @@
 
 ![Cover](https://github.com/Brewalan74/Brewalan74/blob/master/img/Wonderland.jpeg)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=midnight-purple&show_icons=true)
+![Brewalan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brewalan74&theme=midnight-purple&show_icons=true)
 
 <!--
 **Brewalan74/Brewalan74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
