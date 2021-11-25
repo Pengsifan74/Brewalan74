@@ -1,7 +1,7 @@
 
 ### Hi everyone! Welcome to my Github, I am Brewalan. 👋
 
-![Cover](https://github.com/Brewalan74/Brewalan74/blob/master/img/Wonderland.jpeg)
+![Cover](https://github.com/Brewalan74/Brewalan74/blob/master/img/cover.jpg)
 
 ![Brewalan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brewalan74&theme=merko&show_icons=true)
 
