@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Cover](https://github.com/Brewalan74/Brewalan74/blob/master/img/wonderland.jpg)
+![Cover](https://github.com/Brewalan74/Brewalan74/blob/master/img/Wonderland.jpg)
