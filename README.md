@@ -5,7 +5,7 @@
 
 ![Brewalan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brewalan74&theme=merko&show_icons=true&&count_private=true&include_all_commits=true)
 
-<img align="rigth" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brewalan74&layout=compact&theme=merko" height=250 />
+<img align="rigth" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brewalan74&layout=compact&theme=merko" height=240 />
 
 <!--START_SECTION:waka-->
 ```text
