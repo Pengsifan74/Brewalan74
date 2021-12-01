@@ -9,7 +9,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Other      12 hrs 12 mins  █████████████████████████   99.95 % 
+Other      21 hrs 20 mins  ████████████████████████▒   97.39 % 
+Markdown   32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
+PHP        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 ```
 <!--END_SECTION:waka-->
 
