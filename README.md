@@ -9,6 +9,8 @@
 
 [![wakatime](https://wakatime.com/badge/user/2f1cc193-a445-42bd-8c55-7b5ab93f0467.svg)](https://wakatime.com/@2f1cc193-a445-42bd-8c55-7b5ab93f0467)
 
+- 🔭 I’m currently working on [https://wakatime.com](https://wakatime.com/projects/projet-instrumental4me)
+
 <!--START_SECTION:waka-->
 ```text
 Other      33 hrs 8 mins   ████████████████▓░░░░░░░░   66.34 % 
