@@ -7,6 +7,8 @@
 
 <img align="rigth" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brewalan74&layout=compact&theme=merko" height=235 />
 
+<a href="https://wakatime.com/@2f1cc193-a445-42bd-8c55-7b5ab93f0467"><img src="https://wakatime.com/badge/user/2f1cc193-a445-42bd-8c55-7b5ab93f0467.svg" alt="Total time coded since Nov 25 2021" /></a>
+
 <!--START_SECTION:waka-->
 ```text
 Other      33 hrs 8 mins   ████████████████▓░░░░░░░░   66.34 % 
