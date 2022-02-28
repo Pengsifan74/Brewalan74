@@ -10,13 +10,11 @@
 [![wakatime](https://wakatime.com/badge/user/2f1cc193-a445-42bd-8c55-7b5ab93f0467.svg)](https://wakatime.com/@2f1cc193-a445-42bd-8c55-7b5ab93f0467)
 
 <!--START_SECTION:waka-->
+
 ```text
-Other      4 hrs 11 mins   ███████████████░░░░░░░░░░   59.81 % 
-CSS        1 hr 25 mins    █████░░░░░░░░░░░░░░░░░░░░   20.35 % 
-HTML       31 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
-PHP        30 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.30 % 
-Markdown   18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
+Other           4 hrs 59 mins   ███████████████░░░░░░░░░░   59.59 %
 ```
+
 <!--END_SECTION:waka-->
 
 
