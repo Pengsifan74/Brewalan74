@@ -27,7 +27,7 @@ Other        8 hrs 16 mins   ██████████████▓░░
 [<img align="left" alt="Git" width="30px" src="https://www.svgrepo.com/show/373623/git.svg" />][git]
 [<img align="left" alt="GitHub" width="35px" src="https://www.svgrepo.com/show/312259/github.svg" />][github]
 [<img align="left" alt="Visual Studio Code" width="30px" src="https://www.svgrepo.com/show/331782/visual-studio.svg" />][vs]
-[<img align="left" alt="WordPress" width="30px" src="https://www.svgrepo.com/show/150845/wordpress.svg" />][wp]
+[<img align="left" alt="WordPress" width="30px" src="https://www.svgrepo.com/show/349568/wordpress.svg" />][wp]
 
 <br />
 <br />
