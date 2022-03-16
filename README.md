@@ -17,7 +17,7 @@ Other        8 hrs 16 mins   ██████████████▓░░
 
 <!--END_SECTION:waka-->
 
-### Languages and Tools:
+### Languages and Tools I can work with:
 
 [<img align="left" alt="HTML5" width="30px" src="https://www.svgrepo.com/show/120930/html.svg" />][html]
 [<img align="left" alt="CSS3" width="30px" src="https://www.svgrepo.com/show/134149/css.svg" />][css]
@@ -27,6 +27,7 @@ Other        8 hrs 16 mins   ██████████████▓░░
 [<img align="left" alt="Git" width="30px" src="https://www.svgrepo.com/show/373623/git.svg" />][git]
 [<img align="left" alt="GitHub" width="35px" src="https://www.svgrepo.com/show/312259/github.svg" />][github]
 [<img align="left" alt="Visual Studio Code" width="30px" src="https://www.svgrepo.com/show/331782/visual-studio.svg" />][vs]
+[<img align="left" alt="WordPress" width="30px" src="https://www.svgrepo.com/svg/349568/wordpress.svg" />][wp]
 
 <br />
 <br />
@@ -39,6 +40,7 @@ Other        8 hrs 16 mins   ██████████████▓░░
 [git]:https://git-scm.com/
 [github]: https://github.com/Brewalan74
 [vs]: https://visualstudio.microsoft.com/
+[wp]: https://wordpress.org/
 [twitter]: https://twitter.com/brew_spk
 [linkedin]: https://www.linkedin.com/in/stefan-p-k-a6b11392/
 
